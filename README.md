@@ -1,5 +1,7 @@
 # mtg-search
 
+https://aw-t-daigo.github.io/mtg-search/
+
 Vue3 系 + TypeScript と rxjs で検索フォームに入力した内容をリアクティブに反映させる習作です。
 Scryfall という Magic: the Gathering (以下 MtG) のカードを検索する API を利用しています。
 
