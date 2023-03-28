@@ -12,7 +12,13 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "vue": "^3.2.47"
+    "@mdi/font": "^7.2.96",
+    "@vueuse/core": "^9.13.0",
+    "@vueuse/rxjs": "^9.13.0",
+    "rxjs": "^7.8.0",
+    "scryfall-sdk": "^4.1.1",
+    "vue": "^3.2.47",
+    "vuetify": "^3.1.11"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.2.0",
